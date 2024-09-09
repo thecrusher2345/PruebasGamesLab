@@ -5,26 +5,14 @@ Thumbs.db
 # Ignorar archivos de compilación
 /build
 /dist
-/target
 
 # Ignorar dependencias
 /node_modules
 /vendor
 
-# Ignorar archivos de configuración de IDE
-.idea/
-.vscode/
-*.sublime-workspace
-*.sublime-project
-
-# Ignorar archivos de entorno
+# Ignorar archivos de configuración
 .env
-.env.local
-.env.*.local
+*.local
 
 # Ignorar archivos de logs
 *.log
-
-# Ignorar archivos temporales
-*.tmp
-*.temp
